@@ -14,15 +14,20 @@ h1, h3{
 h1{
     color: whitesmoke;
     font-size: 36px;
+    padding: .125em;
 }
 
 h2{
     margin-top: 0;
+    padding: .125em;
+
 }
 
 h3{
     color: #d0aaff;
     font-size: 20px;
+    padding: .125em;
+
 }
 
 p{
